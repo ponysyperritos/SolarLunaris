@@ -54,6 +54,10 @@ Modelos Nuevos
 49. Pala [Me]
 50. Carreta (futurista) [P]
 
+51-Edificios [Ma]
+52-Teletransportador [Me]
+53-Generador de energía [Me][T]
+
 
 Extras: 
 
